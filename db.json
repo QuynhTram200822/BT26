@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Nguyen Van A",
+      "dateOfBirth": "2002/12/01"
+    },
+    {
+      "id": "2",
+      "name": "Nguyen Van B",
+      "dateOfBirth": "2002/12/01"
+    },
+    {
+      "id": "3",
+      "name": "Nguyen Van C",
+      "dateOfBirth": "2002/12/01"
+    },
+    {
+      "id": "4",
+      "name": "Nguyen Van D",
+      "dateOfBirth": "2002/02/11"
+    }
+  ]
+}
